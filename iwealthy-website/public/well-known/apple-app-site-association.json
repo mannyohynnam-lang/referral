@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "HKJUH26S45.com.dashavg.iwealthymobile" ],
+        "components": [
+          {
+            "/": "/join*",
+            "comment": "Matches any link starting with /join"
+          }
+        ]
+      }
+    ]
+  }
+}
